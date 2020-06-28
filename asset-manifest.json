@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/Tachrade/tachrade.github.io-BlinkAdmin/static/js/main.6c6be453.chunk.js",
-    "main.js.map": "/Tachrade/tachrade.github.io-BlinkAdmin/static/js/main.6c6be453.chunk.js.map",
-    "runtime-main.js": "/Tachrade/tachrade.github.io-BlinkAdmin/static/js/runtime-main.d4b38bd2.js",
-    "runtime-main.js.map": "/Tachrade/tachrade.github.io-BlinkAdmin/static/js/runtime-main.d4b38bd2.js.map",
-    "static/js/2.ad79ed72.chunk.js": "/Tachrade/tachrade.github.io-BlinkAdmin/static/js/2.ad79ed72.chunk.js",
-    "static/js/2.ad79ed72.chunk.js.map": "/Tachrade/tachrade.github.io-BlinkAdmin/static/js/2.ad79ed72.chunk.js.map",
-    "index.html": "/Tachrade/tachrade.github.io-BlinkAdmin/index.html",
-    "precache-manifest.bf3d7ab667f75588b74f595d65823afe.js": "/Tachrade/tachrade.github.io-BlinkAdmin/precache-manifest.bf3d7ab667f75588b74f595d65823afe.js",
-    "service-worker.js": "/Tachrade/tachrade.github.io-BlinkAdmin/service-worker.js",
-    "static/js/2.ad79ed72.chunk.js.LICENSE.txt": "/Tachrade/tachrade.github.io-BlinkAdmin/static/js/2.ad79ed72.chunk.js.LICENSE.txt"
+    "main.js": "/tachrade/tachrade.github.io-BlinkAdmin/static/js/main.43bf9a19.chunk.js",
+    "main.js.map": "/tachrade/tachrade.github.io-BlinkAdmin/static/js/main.43bf9a19.chunk.js.map",
+    "runtime-main.js": "/tachrade/tachrade.github.io-BlinkAdmin/static/js/runtime-main.046026d6.js",
+    "runtime-main.js.map": "/tachrade/tachrade.github.io-BlinkAdmin/static/js/runtime-main.046026d6.js.map",
+    "static/js/2.ad79ed72.chunk.js": "/tachrade/tachrade.github.io-BlinkAdmin/static/js/2.ad79ed72.chunk.js",
+    "static/js/2.ad79ed72.chunk.js.map": "/tachrade/tachrade.github.io-BlinkAdmin/static/js/2.ad79ed72.chunk.js.map",
+    "index.html": "/tachrade/tachrade.github.io-BlinkAdmin/index.html",
+    "precache-manifest.b16808a5cbd8edebb5dbce6b346489e4.js": "/tachrade/tachrade.github.io-BlinkAdmin/precache-manifest.b16808a5cbd8edebb5dbce6b346489e4.js",
+    "service-worker.js": "/tachrade/tachrade.github.io-BlinkAdmin/service-worker.js",
+    "static/js/2.ad79ed72.chunk.js.LICENSE.txt": "/tachrade/tachrade.github.io-BlinkAdmin/static/js/2.ad79ed72.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d4b38bd2.js",
+    "static/js/runtime-main.046026d6.js",
     "static/js/2.ad79ed72.chunk.js",
-    "static/js/main.6c6be453.chunk.js"
+    "static/js/main.43bf9a19.chunk.js"
   ]
 }

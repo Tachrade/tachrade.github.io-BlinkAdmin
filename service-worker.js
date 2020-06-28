@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Tachrade/tachrade.github.io-BlinkAdmin/precache-manifest.bf3d7ab667f75588b74f595d65823afe.js"
+  "/tachrade/tachrade.github.io-BlinkAdmin/precache-manifest.b16808a5cbd8edebb5dbce6b346489e4.js"
 );
 
 self.addEventListener('message', (event) => {
@@ -33,7 +33,7 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/Tachrade/tachrade.github.io-BlinkAdmin/index.html"), {
+workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/tachrade/tachrade.github.io-BlinkAdmin/index.html"), {
   
   blacklist: [/^\/_/,/\/[^/?]+\.[^/]+$/],
 });
